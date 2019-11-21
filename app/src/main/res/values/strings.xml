@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">expressResrv</string>
+    <string name="valg_av_tilgjengelige_rom">Valg av tilgjengelige rom</string>
+    <string name="book">Book</string>
+    <string name="reset">Reset</string>
+    <string name="_15_min">15 min</string>
+    <string name="_30_min">30 min</string>
+    <string name="_60_min">60 min</string>
+    <string name="min_counter">Min Counter</string>
+    <string name="hour_counter">Hour Counter</string>
+</resources>
